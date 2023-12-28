@@ -45,57 +45,57 @@ import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
 const manifest = {
   "sections": {
-    "deco-sites/boilerplaten1/sections/Category/CategoryBanner.tsx": $$$$$$0,
-    "deco-sites/boilerplaten1/sections/Category/CategoryBreadcrumb.tsx":
+    "deco-sites/ilike/sections/Category/CategoryBanner.tsx": $$$$$$0,
+    "deco-sites/ilike/sections/Category/CategoryBreadcrumb.tsx":
       $$$$$$1,
-    "deco-sites/boilerplaten1/sections/Category/CategoryList.tsx": $$$$$$2,
-    "deco-sites/boilerplaten1/sections/Category/CategoryText.tsx": $$$$$$3,
-    "deco-sites/boilerplaten1/sections/Container.tsx": $$$$$$4,
-    "deco-sites/boilerplaten1/sections/Content/Benefits.tsx": $$$$$$5,
-    "deco-sites/boilerplaten1/sections/Content/CopyRight.tsx": $$$$$$6,
-    "deco-sites/boilerplaten1/sections/Content/Faq.tsx": $$$$$$7,
-    "deco-sites/boilerplaten1/sections/Content/InfoCard.tsx": $$$$$$8,
-    "deco-sites/boilerplaten1/sections/Content/Logos.tsx": $$$$$$9,
-    "deco-sites/boilerplaten1/sections/Content/Testimonials.tsx": $$$$$$10,
-    "deco-sites/boilerplaten1/sections/DesignSystem/DesignSystem.tsx": $$$$$$11,
-    "deco-sites/boilerplaten1/sections/Footer/Footer.tsx": $$$$$$12,
-    "deco-sites/boilerplaten1/sections/Header/HeaderLayout.tsx": $$$$$$13,
-    "deco-sites/boilerplaten1/sections/Header/TopNavBar.tsx": $$$$$$14,
-    "deco-sites/boilerplaten1/sections/Images/BannerGrid.tsx": $$$$$$15,
-    "deco-sites/boilerplaten1/sections/Images/Carousel.tsx": $$$$$$16,
-    "deco-sites/boilerplaten1/sections/Images/ImageGallery.tsx": $$$$$$17,
-    "deco-sites/boilerplaten1/sections/Images/ShoppableBanner.tsx": $$$$$$18,
-    "deco-sites/boilerplaten1/sections/Institutional/AccordionsContent.tsx":
+    "deco-sites/ilike/sections/Category/CategoryList.tsx": $$$$$$2,
+    "deco-sites/ilike/sections/Category/CategoryText.tsx": $$$$$$3,
+    "deco-sites/ilike/sections/Container.tsx": $$$$$$4,
+    "deco-sites/ilike/sections/Content/Benefits.tsx": $$$$$$5,
+    "deco-sites/ilike/sections/Content/CopyRight.tsx": $$$$$$6,
+    "deco-sites/ilike/sections/Content/Faq.tsx": $$$$$$7,
+    "deco-sites/ilike/sections/Content/InfoCard.tsx": $$$$$$8,
+    "deco-sites/ilike/sections/Content/Logos.tsx": $$$$$$9,
+    "deco-sites/ilike/sections/Content/Testimonials.tsx": $$$$$$10,
+    "deco-sites/ilike/sections/DesignSystem/DesignSystem.tsx": $$$$$$11,
+    "deco-sites/ilike/sections/Footer/Footer.tsx": $$$$$$12,
+    "deco-sites/ilike/sections/Header/HeaderLayout.tsx": $$$$$$13,
+    "deco-sites/ilike/sections/Header/TopNavBar.tsx": $$$$$$14,
+    "deco-sites/ilike/sections/Images/BannerGrid.tsx": $$$$$$15,
+    "deco-sites/ilike/sections/Images/Carousel.tsx": $$$$$$16,
+    "deco-sites/ilike/sections/Images/ImageGallery.tsx": $$$$$$17,
+    "deco-sites/ilike/sections/Images/ShoppableBanner.tsx": $$$$$$18,
+    "deco-sites/ilike/sections/Institutional/AccordionsContent.tsx":
       $$$$$$19,
-    "deco-sites/boilerplaten1/sections/Institutional/AsideMenu.tsx": $$$$$$20,
-    "deco-sites/boilerplaten1/sections/Institutional/CardsContent.tsx":
+    "deco-sites/ilike/sections/Institutional/AsideMenu.tsx": $$$$$$20,
+    "deco-sites/ilike/sections/Institutional/CardsContent.tsx":
       $$$$$$21,
-    "deco-sites/boilerplaten1/sections/Institutional/ContactForm.tsx": $$$$$$22,
-    "deco-sites/boilerplaten1/sections/Institutional/InstitutionalPage.tsx":
+    "deco-sites/ilike/sections/Institutional/ContactForm.tsx": $$$$$$22,
+    "deco-sites/ilike/sections/Institutional/InstitutionalPage.tsx":
       $$$$$$23,
-    "deco-sites/boilerplaten1/sections/Institutional/TextContent.tsx": $$$$$$24,
-    "deco-sites/boilerplaten1/sections/Links/LinkTree.tsx": $$$$$$25,
-    "deco-sites/boilerplaten1/sections/Links/Shortcuts.tsx": $$$$$$26,
-    "deco-sites/boilerplaten1/sections/Miscellaneous/CampaignTimer.tsx":
+    "deco-sites/ilike/sections/Institutional/TextContent.tsx": $$$$$$24,
+    "deco-sites/ilike/sections/Links/LinkTree.tsx": $$$$$$25,
+    "deco-sites/ilike/sections/Links/Shortcuts.tsx": $$$$$$26,
+    "deco-sites/ilike/sections/Miscellaneous/CampaignTimer.tsx":
       $$$$$$27,
-    "deco-sites/boilerplaten1/sections/Miscellaneous/CookieConsent.tsx":
+    "deco-sites/ilike/sections/Miscellaneous/CookieConsent.tsx":
       $$$$$$28,
-    "deco-sites/boilerplaten1/sections/Miscellaneous/NotFound.tsx": $$$$$$29,
-    "deco-sites/boilerplaten1/sections/Newsletter/Newsletter.tsx": $$$$$$30,
-    "deco-sites/boilerplaten1/sections/Newsletter/NewsletterModal.tsx":
+    "deco-sites/ilike/sections/Miscellaneous/NotFound.tsx": $$$$$$29,
+    "deco-sites/ilike/sections/Newsletter/Newsletter.tsx": $$$$$$30,
+    "deco-sites/ilike/sections/Newsletter/NewsletterModal.tsx":
       $$$$$$31,
-    "deco-sites/boilerplaten1/sections/Product/ProductDetails.tsx": $$$$$$32,
-    "deco-sites/boilerplaten1/sections/Product/ProductShelf.tsx": $$$$$$33,
-    "deco-sites/boilerplaten1/sections/Product/SearchResult.tsx": $$$$$$34,
-    "deco-sites/boilerplaten1/sections/Product/Wishlist.tsx": $$$$$$35,
-    "deco-sites/boilerplaten1/sections/Social/InstagramPosts.tsx": $$$$$$36,
-    "deco-sites/boilerplaten1/sections/Social/WhatsApp.tsx": $$$$$$37,
+    "deco-sites/ilike/sections/Product/ProductDetails.tsx": $$$$$$32,
+    "deco-sites/ilike/sections/Product/ProductShelf.tsx": $$$$$$33,
+    "deco-sites/ilike/sections/Product/SearchResult.tsx": $$$$$$34,
+    "deco-sites/ilike/sections/Product/Wishlist.tsx": $$$$$$35,
+    "deco-sites/ilike/sections/Social/InstagramPosts.tsx": $$$$$$36,
+    "deco-sites/ilike/sections/Social/WhatsApp.tsx": $$$$$$37,
   },
   "apps": {
-    "deco-sites/boilerplaten1/apps/decohub.ts": $$$$$$$$$$$0,
-    "deco-sites/boilerplaten1/apps/site.ts": $$$$$$$$$$$1,
+    "deco-sites/ilike/apps/decohub.ts": $$$$$$$$$$$0,
+    "deco-sites/ilike/apps/site.ts": $$$$$$$$$$$1,
   },
-  "name": "deco-sites/boilerplaten1",
+  "name": "deco-sites/ilike",
   "baseUrl": import.meta.url,
 };
 
